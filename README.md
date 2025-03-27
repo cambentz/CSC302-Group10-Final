@@ -18,6 +18,8 @@ We use **Python** for data cleaning, manipulation, and visualization, and **R** 
 
 ---
 
+## Presentation Slides: https://docs.google.com/presentation/d/1WqQS7duh_HtHok34N6hXmt1btJlvic_wY-7f5PC8olQ/edit?usp=sharing
+
 ## Dataset Info
 
 - **Source**: [Kaggle Dataset – Comprehensive U.S. College Scorecard Data](https://www.kaggle.com/datasets/programmerrdai/comprehensive-u-s-college-scorecard-data)
