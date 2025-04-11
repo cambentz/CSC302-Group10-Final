@@ -151,5 +151,5 @@ data/raw/
 # Ignore the 1.34 GB merged scorecard data
 data/processed/merged_scorecard.csv
 
-# Generated plots/reports
-outputs/
+# Ignore Tableau temp/backup files
+~*.twbr

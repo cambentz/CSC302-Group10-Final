@@ -1,0 +1,1 @@
+Data Source: reduced_scorecard.csv from [College Scorecard](https://collegescorecard.ed.gov/data/)
